@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>location payment icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="location-payment-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-5">
+            <rect id="Rectangle" x="0" y="0" width="20" height="20"></rect>
+            <g id="Group-12" transform="translate(4.000000, 2.000000)" stroke="#1F2D3D" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M11.3333421,5.622 C11.3333421,8.94933333 7.5226754,13.35 6.15134206,14.8266667 C5.8886754,15.1086667 5.4446754,15.1093333 5.1806754,14.8273333 C3.80734206,13.356 -0.00665793802,8.96866667 -9.50350909e-14,5.622 C-9.50350909e-14,2.51733333 2.53734206,7.99360578e-15 5.6666754,7.99360578e-15 C8.79600873,7.99360578e-15 11.3333421,2.51733333 11.3333421,5.622 Z" id="Stroke-1"></path>
+                <path d="M8.33334206,5.7112 C8.33334206,7.18386667 7.13934206,8.37786667 5.6666754,8.37786667 C4.19400873,8.37786667 3.00000873,7.18386667 3.00000873,5.7112 C3.00000873,4.23853333 4.19400873,3.04453333 5.6666754,3.04453333 C7.13934206,3.04453333 8.33334206,4.23853333 8.33334206,5.7112 Z" id="Stroke-3"></path>
+            </g>
+        </g>
+    </g>
+</svg>
